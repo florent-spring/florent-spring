@@ -52,4 +52,28 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="
+  <img src="https://github-readme-stats.vercel.app/api?username=florent-spring&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=florent-spring&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="48%" />
+</div>
+
+---
+
+## 📂 Featured Repositories & Projects
+
+> *A selection of Python and web development projects completed during structured training programs[cite: 1].*
+
+- 🐍 **[OC_P9_DA-Python](https://github.com/florent-spring/OC_P9_DA-Python)** : Développement d'une application web complète en Python en utilisant **Django**, HTML/CSS et SQLite[cite: 1].
+- ⚡ **[OC_P7_DA-Python](https://github.com/florent-spring/OC_P7_DA-Python)** : Résolution de problèmes algorithmiques complexes, optimisation de code et analyse de complexité (gestion d'algorithmes de force brute et de type sac à dos)[cite: 1].
+- 🌐 **[OC_P6_DA-Python](https://github.com/florent-spring/OC_P6_DA-Python)** : Conception d'une interface utilisateur pour application web connectée à une API (Python, JavaScript, HTML/CSS)[cite: 1].
+- 📊 **[OC_P4_DA-Python](https://github.com/florent-spring/OC_P4_DA-Python)** : Création d'un programme logiciel en Python axé sur la logique applicative, le respect des standards de code (`flake8`) et la gestion de tournois[cite: 1].
+- 📈 **[OC_P2_DA-Python](https://github.com/florent-spring/OC_P2_DA-Python)** : Utilisation des bases de Python appliquées à l'analyse de données de marché[cite: 1].
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=florent-spring&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<div align="center">
+  <sub>⚡ Built with passion, Markdown, and a lot of coffee.</sub>
+</div>
