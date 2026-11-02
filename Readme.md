@@ -70,6 +70,10 @@
 
 ---
 
+👉 **Looking for more details?** Check out my complete [Professional Portfolio & CV (English)](https://github.com/florent-spring/portfolio).
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=florent-spring&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
