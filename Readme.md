@@ -51,10 +51,13 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=florent-spring&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=florent-spring&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=florent-spring&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-</div>
+</p>
 
 ---
 
