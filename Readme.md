@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/florent-spring/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:votre-email@domaine.com">
+  <a href="mailto:florent.spring@ik.me">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -22,9 +22,13 @@
 ## ⚡ About Me
 
 - 📍 **Based in:** France
+
 - 💻 **Core Focus:** IT Troubleshooting, Linux, Windows, Systems & Infrastructure administration.
+
 - 🚀 **Passions:** Technical exploration, workflow automation, scripting, and development.
+
 - 🛠️ **Mindset:** Always experimenting with tools, building small utilities, and understanding how things work under the hood.
+
 
 ---
 
@@ -60,17 +64,22 @@
 
 ## 📂 Featured Repositories & Projects
 
-> *A selection of Python and web development projects completed during structured training programs[cite: 1].*
+> *A selection of Python and web development projects completed during structured training programs.*
 
-- 🐍 **[OC_P9_DA-Python](https://github.com/florent-spring/OC_P9_DA-Python)** : Développement d'une application web complète en Python en utilisant **Django**, HTML/CSS et SQLite[cite: 1].
-- ⚡ **[OC_P7_DA-Python](https://github.com/florent-spring/OC_P7_DA-Python)** : Résolution de problèmes algorithmiques complexes, optimisation de code et analyse de complexité (gestion d'algorithmes de force brute et de type sac à dos)[cite: 1].
-- 🌐 **[OC_P6_DA-Python](https://github.com/florent-spring/OC_P6_DA-Python)** : Conception d'une interface utilisateur pour application web connectée à une API (Python, JavaScript, HTML/CSS)[cite: 1].
-- 📊 **[OC_P4_DA-Python](https://github.com/florent-spring/OC_P4_DA-Python)** : Création d'un programme logiciel en Python axé sur la logique applicative, le respect des standards de code (`flake8`) et la gestion de tournois[cite: 1].
-- 📈 **[OC_P2_DA-Python](https://github.com/florent-spring/OC_P2_DA-Python)** : Utilisation des bases de Python appliquées à l'analyse de données de marché[cite: 1].
+- 🐍 **[OC_P9_DA-Python](https://github.com/florent-spring/OC_P9_DA-Python)** : Développement d'une application web complète en Python en utilisant **Django**, HTML/CSS et SQLite.
+
+- ⚡ **[OC_P7_DA-Python](https://github.com/florent-spring/OC_P7_DA-Python)** : Résolution de problèmes algorithmiques complexes, optimisation de code et analyse de complexité (gestion d'algorithmes de force brute et de type sac à dos).
+
+- 🌐 **[OC_P6_DA-Python](https://github.com/florent-spring/OC_P6_DA-Python)** : Conception d'une interface utilisateur pour application web connectée à une API (Python, JavaScript, HTML/CSS).
+
+- 📊 **[OC_P4_DA-Python](https://github.com/florent-spring/OC_P4_DA-Python)** : Création d'un programme logiciel en Python axé sur la logique applicative, le respect des standards de code (`flake8`) et la gestion de tournois.
+
+- 📈 **[OC_P2_DA-Python](https://github.com/florent-spring/OC_P2_DA-Python)** : Utilisation des bases de Python appliquées à l'analyse de données de marché.
+
 
 ---
 
-👉 **Looking for more details?** Check out my complete [Professional Portfolio & CV (English)](https://github.com/florent-spring/portfolio).
+👉 **Looking for more details?** Check out my complete interactive [Professional Portfolio Website](https://florent-spring.github.io).
 
 ---
 
